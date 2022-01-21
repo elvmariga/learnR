@@ -21,12 +21,9 @@ const AboutBrief = () => (
             129+ Courses Online from Best Teachers
           </h2>
           <p className="leading-relaxed text-center lg:text-left text-sm md:text-base">
-            LearnR aims to bring together students and teachers on the community
-            platform. We take our mission of increasing global access to quality
-            education seriously. We connect learners to the best tutors and
-            courses from around the world. The quick, brown fox jumps over a
-            lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced
-            by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad
+          As time went by, physical classes have been less valued and things went worse when the pandemic set in. 
+          However, people shall keep learning and so much more content is yet to be produced as it is in this era of information and technology. 
+          At learnerR, we saw that coming and hence put in place this solution to be handy for everyone during these moments of uncertainty.
           </p>
           <hr className="text-primary-amber w-20 py-4 mt-5" />
           <ul className="list-disc lg:list-inside px-4 lg:px-0 flex flex-col space-y-3 text-sm md:text-base">
